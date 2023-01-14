@@ -1,4 +1,4 @@
-# Hello 👋, Myself Anuj Tiwari 
+## Hello 👋, I'm Anuj Tiwari 
 I'm an upcoming engineering undergrad student who likes to develop and work on new-new projects and programs. I'm currently exploring the tech world
 
 
