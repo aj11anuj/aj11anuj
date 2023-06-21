@@ -1,9 +1,32 @@
-## Hello 👋, I'm Anuj Tiwari 
-I'm an upcoming engineering undergrad student who likes to develop and work on new-new projects and programs. I'm currently exploring the tech world
+## Hello there, fellow explorer! 👋
+Myself Anuj Tiwari, I'm eager to contribute to the tech industry by applying my problem-solving skills and developing scalable software solutions. Driven by a strong foundation in Computer Science and Data Science, I'm excited to embark on a journey to become a well-rounded Software Engineer/MLOps Engineer. Currently, I'm training my ML Models, honing my DSA skills and building my Portfolio-Website. I will be happy to collaborate and connect with you for some Open-Source Project, Hackathon, Mentorship, Guidance and Opportunities.
+
+[![Twitter](https://img.shields.io/badge/Twitter-%230099cc.svg?logo=twitter&logoColor=white)](https://twitter.com/@aj11anuj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23006399.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aj11anuj)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aj11anuj) 
+
+
+## Tech Stacks:
+
+- ### Programming Languages:
+  - <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23000000.svg?logo=java&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%23000000.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23000000.svg?logo=html&logoColor=white"></a>
+
+ - ### Libraries & Framework:
+   - <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23730099.svg?logo=Bootstrap&logoColor=white"></a>
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23997a00.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%231d067a.svg?logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit Learn%20-%23006bb3.svg?logo=scikit learn&logoColor=white"></a>
+<a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%23cb411a.svg?logo=tensorflow&logoColor=white"></a>
+
+ - ### DevOps & Cloud Tools:
+   - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aj11anuj&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aj11anuj&theme=dark&hide_border=true)<br/>
