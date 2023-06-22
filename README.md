@@ -12,14 +12,14 @@ Myself Anuj Tiwari, I'm eager to contribute to the tech industry by applying my 
 - ### Programming Languages:
   - <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23000000.svg?logo=java&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%23000000.svg?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23000000.svg?logo=html&logoColor=white"></a>
 
  - ### Libraries & Framework:
    - <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23730099.svg?logo=Bootstrap&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23997a00.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%231d067a.svg?logo=pandas&logoColor=white"></a>
 <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit Learn%20-%23006bb3.svg?logo=scikit learn&logoColor=white"></a>
-<a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%23cb411a.svg?logo=tensorflow&logoColor=white"></a>
+<a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%23e2481d.svg?logo=tensorflow&logoColor=white"></a>
+<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23b30000.svg?logo=keras&logoColor=white"></a>
 
  - ### DevOps & Cloud Tools:
    - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
