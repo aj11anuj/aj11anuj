@@ -38,8 +38,7 @@ I will be happy to collaborate and connect with you for Open-Source Project, Hac
 
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aj11anuj&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=aj11anuj&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aj11anuj&theme=dark&hide_border=true)<br/>
 
 
