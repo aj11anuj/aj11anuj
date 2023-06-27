@@ -1,5 +1,16 @@
 ## Hello there, fellow explorer! 👋
-Myself Anuj Tiwari, I'm eager to contribute to the tech industry by applying my problem-solving skills and developing scalable software solutions. Driven by a strong foundation in Computer Science and Data Science, I'm excited to embark on a journey to become a well-rounded Software Engineer/MLOps Engineer. Currently, I'm training my ML Models, honing my DSA skills and building my Portfolio-Website. I will be happy to collaborate and connect with you for some Open-Source Project, Hackathon, Mentorship, Guidance and Opportunities.
+Myself Anuj Tiwari, I'm eager to contribute to the tech industry by applying my problem solving skills and developing scalable software solutions. Driven by a strong foundation in Computer Science and Data Science, I'm excited to embark on a journey to become a well-rounded :-
+- MLOps Engineer
+- AI/ML Engineer
+- Software Engineer
+- Developer Advocate/Evangelist
+
+### Currently :-
+- I'm pursuing my Undergraduation in Bachelor of Technology - B.Tech, Information Technology
+- I'm learning Machine Learning, honing my DSA skills and building my Portfolio-Website
+- I write Technical Blogs on Machine learning, DevOps, Software Engineering, DSA, Fundamentals, Opportunities & my experiences
+
+I will be happy to collaborate and connect with you for Open-Source Project, Hackathon, Mentorship, Guidance and Opportunities
 
 [![Twitter](https://img.shields.io/badge/Twitter-%230099cc.svg?logo=twitter&logoColor=white)](https://twitter.com/@aj11anuj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23006399.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aj11anuj)
