@@ -1,3 +1,6 @@
+![code (1)](https://github.com/aj11anuj/aj11anuj/assets/116108975/a8565e95-2c4e-4c8c-9c3b-aa84f465c434)
+
+
 ## Hello, fellow explorer! 👋
 I'm eager to contribute to the tech industry by applying my problem-solving skills and developing scalable software solutions. Driven by a strong foundation in Computer Science and Data Science, I'm excited to embark on a journey to become a well-rounded Software Engineer (MLOps) or Developer Advocate.
 
