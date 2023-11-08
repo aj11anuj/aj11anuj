@@ -2,7 +2,7 @@
 <p align="center"><b>Most active on: Twitter❌, LinkedIn❌, College❌❌, K8s Community✔</b></p>
 
 - 👨‍💻 Active Open-Source Contributor <a href="https://github.com/kubernetes">@Kubernetes</a>
-- Approver of Hindi i18n at glossary repo <a href="https://github.com/cncf">@CNCF</a>
+- ✅ Approver of Hindi i18n glossary repo <a href="https://github.com/cncf">@CNCF</a>
 - ✍ Technical Writer Intern <a href="https://www.geeksforgeeks.org/about/">@GeeksforGeeks</a>
 - 👨‍🎓 1st Year Undergrad, Computer Engineering
 <!--
