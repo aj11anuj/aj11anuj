@@ -1,4 +1,5 @@
-![Linkedin_Banner](https://github.com/user-attachments/assets/e7e44c3a-56fb-44e1-acbf-f1699101db75)
+![Banner](https://github.com/user-attachments/assets/4fb2a12f-ed65-4569-a555-8cd66b24b883)
+
 
 <h2 align="center">Nice to meet you, Open-source fellow 👋</h2>
 <h3 align="center">Welcome to my GitHub corner feel free to explore and contribute to my projects. I recommend you to read the below section to get an overview of all my projects at a glance.</h3><br>
