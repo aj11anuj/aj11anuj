@@ -16,7 +16,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/yourusername/feedback-application" target="_blank"><b>Feedback Application</b></a></td>
-      <td>Simple full-stack project with Bootstrap, Spring Boot, and MySQL to collect feedback from users.</td>
+      <td>Simple full-stack project with Bootstrap, Spring Boot, and MySQL to collect user feedback.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/yourusername/crud-api" target="_blank"><b>CRUD API</b></a></td>
@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/yourusername/webserver" target="_blank"><b>Webserver</b></a></td>
-      <td>Using Golang.</td>
+      <td>CLI based webserver made using Golang.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/yourusername/aqi-prediction-ml" target="_blank"><b>AQI Prediction ML Model</b></a></td>
