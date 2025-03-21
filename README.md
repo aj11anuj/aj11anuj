@@ -33,7 +33,7 @@
 ### 🌱 Currently Working On
 
 - **Research Work**: Working on making Evolutionary Algorithms more efficient and optimising MoE-based LLM models.
-- **Kaggle**: Crafting Notebooks for Data Analysis of various domains of data.
+- **Kaggle**: Crafting Notebooks for Data Analysis of various domains.
 
 
 ### 🔭 Future Goals
