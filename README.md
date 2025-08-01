@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/4fb2a12f-ed65-4569-a555-8cd66b24b883)
+![Banner image](https://github.com/user-attachments/assets/4fb2a12f-ed65-4569-a555-8cd66b24b883)
 
 <h2 align="center">Nice to meet you, Open-source fellow 👋</h2>
 <h3 align="center">Welcome to my GitHub corner feel free to explore and contribute to my projects</h3><br>
