@@ -5,7 +5,7 @@
 
 ### 🌱 Currently Working On
 
-- **Research Work**: Researching LLMs, metaheuristic algorithms, multimodality, and multilingual evaluations in collaboration with global researchers.
+- **Research Work**: Researching LLMs, multimodality, and multilingual evaluations in collaboration with global researchers.
 
 ### 🔭 Future Goals
 
